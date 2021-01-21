@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Appium Tests,br.com.appium.pages,RegisterPage,5,52,0,0,1,15,1,5,1,5
+Appium Tests,br.com.appium.pages,LoginPage,4,45,0,0,1,14,1,6,1,6
+Appium Tests,br.com.appium.pages,MenuPage,0,8,0,0,0,3,0,2,0,2
+Appium Tests,br.com.appium.factory,DriverFactory,6,59,2,2,3,19,3,4,1,4

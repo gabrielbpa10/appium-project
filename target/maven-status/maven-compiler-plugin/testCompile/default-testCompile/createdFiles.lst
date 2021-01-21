@@ -1,0 +1,4 @@
+br\com\appium\system\tests\RegisterTests.class
+br\com\appium\system\tests\LoginTest.class
+br\com\appium\system\tests\BaseTest.class
+br\com\appium\unit\tests\Tests.class

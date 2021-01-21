@@ -1,0 +1,4 @@
+br\com\appium\pages\MenuPage.class
+br\com\appium\pages\RegisterPage.class
+br\com\appium\pages\LoginPage.class
+br\com\appium\factory\DriverFactory.class
